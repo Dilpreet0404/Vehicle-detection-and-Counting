@@ -5,7 +5,7 @@ import datetime
 
 #Video1.mp4
 #Video2.wmv
-filename='video2.wmv'
+filename='any video'
 cap=cv2.VideoCapture(filename)
 
 print cap.get(4)
